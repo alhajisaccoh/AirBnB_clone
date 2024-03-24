@@ -1,0 +1,21 @@
+{
+        "BaseModel.27940a8c-f55f-42c2-90e8-764dfce791cc": {
+                "id": "27940a8c-f55f-42c2-90e8-764dfce791cc",
+                "created_at": "2023-07-17T18:28:07.061786",
+                "updated_at": "2023-07-17T18:28:07.062812",
+                "__class__": "BaseModel"
+        },
+        "Place.aa2a04dd-7772-4e89-acb7-e83b10ad8b2b": {
+                "id": "aa2a04dd-7772-4e89-acb7-e83b10ad8b2b",
+                "created_at": "2023-07-17T18:28:20.710634",
+                "updated_at": "2023-07-17T18:28:20.710634",
+                "__class__": "Place"
+        },
+        "User.7925eebd-832c-4319-b04b-2697d9aca9bf": {
+                "id": "7925eebd-832c-4319-b04b-2697d9aca9bf",
+                "created_at": "2023-07-17T18:28:25.609052",
+                "updated_at": "2023-07-17T18:28:25.609052",
+                "__class__": "User",
+                "name": "james"
+        }
+}
